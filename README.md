@@ -20,9 +20,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-  - 🤔 &nbsp; I enjoy learning more about tools to streamline the technical aspects of urban research
+  - 🤔 &nbsp; I enjoy learning more about tools to streamline the technical aspects of urban research.
   - 🎓 &nbsp; I am interested in research related to a wide range of urban issues, especially informal communities, and am looking for PhD enrollment at 25fall in a related field.
-  - 🌱 &nbsp; In addition, In addition, I enjoy traveling and experiencing the customs and cultures of different regions.
+  - 🌱 &nbsp; In addition, I enjoy traveling and experiencing the customs and cultures of different regions.
   - 😎 &nbsp; More information about me can be found on my [homepage]()!
 
 

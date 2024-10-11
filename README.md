@@ -20,10 +20,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-  - 🤔 &nbsp; I am committed to developing more tools to simplify the technical aspects of management research (mainly based on R and Python)
-  - 🎓 &nbsp; I am interested in a wide range of statistical and business research, and looking for 25fall PhD entry opportunities in related fields.
-  - 🌱 &nbsp; In addition, I am also an amateur RTS gamer, proficient in StarCraft II and Age of Empires IV.
-  - 😎 &nbsp; More information about me can be found on my [homepage](https://lingyuan1201.github.io/)!
+  - 🤔 &nbsp; I enjoy learning more about tools to streamline the technical aspects of urban research
+  - 🎓 &nbsp; I am interested in research related to a wide range of urban issues, especially informal communities, and am looking for PhD enrollment at 25fall in a related field.
+  - 🌱 &nbsp; In addition, In addition, I enjoy traveling and experiencing the customs and cultures of different regions.
+  - 😎 &nbsp; More information about me can be found on my [homepage]()!
 
 
 
